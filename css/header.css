@@ -1,0 +1,24 @@
+.bar {
+	background-color: #007fff;
+}
+
+.color-black {
+	color: black;
+}
+
+.title {
+	color: white;
+}
+
+.main-tool {
+	float: right;
+}
+
+.mui-bar-tab .mui-tab-item.mui-active {
+	color: #007fff;
+}
+
+#popover{
+    height: 100px;
+    width: 130px;
+}

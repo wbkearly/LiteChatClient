@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2526641 */
+  src: url('../fonts/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e9f2";
+}
+
+.icon-addfriend:before {
+  content: "\e673";
+}
+
+.icon-chatbubble:before {
+  content: "\e670";
+}
+
+.icon-community:before {
+  content: "\e60c";
+}
+
+.icon-scan:before {
+  content: "\e672";
+}
+
+.icon-setting:before {
+  content: "\e605";
+}
+
+.icon-pengyouquan:before {
+  content: "\e667";
+}
+
+.icon-add:before {
+  content: "\e9c9";
+}
+
+.icon-emoji:before {
+  content: "\e60b";
+}
+
+.icon-keyboard:before {
+  content: "\e652";
+}
+
+.icon-yuyin:before {
+  content: "\e629";
+}
+
